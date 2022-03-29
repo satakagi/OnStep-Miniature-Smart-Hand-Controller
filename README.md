@@ -16,6 +16,7 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 * [0.96" SSD1306 OLED Module](https://www.amazon.com/s?k=0.96+ssd1306+oled)
   * Note: Stick tape on the back side for insulation.
 * Modular Jack 6P6C x 2
+  * The plastic pins for fixing the jacks should be cut out.
 * 7 Resistor Network (2K ohm)
 * 4 Resistor Network (2K ohm)
 * 2.54mm Header Pins 15pin F x 2, 4pin M, 2pin M 
