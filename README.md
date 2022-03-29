@@ -21,4 +21,4 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 
 
 ## License
-It is licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/), one of the well-known open-source hardware licenses.
+This is licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/), one of the well-known open-source hardware licenses.
