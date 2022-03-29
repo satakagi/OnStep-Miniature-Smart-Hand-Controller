@@ -18,7 +18,7 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 * 7 Resistor Network (2K ohm)
 * 4 Resistor Network (2K ohm)
 * 2.54mm Header Pins 15pin F x 2, 4pin M, 2pin M 
-* Case ( refer [miniSHCcase.stl](miniSHCcase.stl) )
+* Case ( refer to [miniSHCcase.stl](miniSHCcase.stl) )
 
 ## License
 This is licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/), one of the well-known open-source hardware licenses.
