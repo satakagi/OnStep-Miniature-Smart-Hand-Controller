@@ -25,6 +25,7 @@ Therefore, the firmware is exactly the same as the ESP32 SHC, see the section In
 * Momentary Tact Button Switches 0.2" x 0.24" x 7
   * Buttons would need to be at least 0.24" long.
 * Case ( refer to [miniSHCcase.stl](miniSHCcase.stl) )
+  * The example on this page were produced using the MSLA LCD 3d printer.
 
 ## Photos of the interior structure
 ![Three modules make up the controller](imgs/img2.jpg)
