@@ -23,10 +23,11 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 
 ## Photos of the interior structure
 ![Three modules make up the controller](imgs/img2.jpg)
+Tape is attached to the back of the OLD for insulation.
 |  - |  -  |
 | ---- | ---- |
 |  ![PCB](imgs/img3.jpg)  |  ![Connection with OLED](imgs/img4.jpg)  |
-|  ![Side view](imgs/img5.jpg)  |  ![Backside view and installation in a case](imgs/img6.jpg)   |
+|  ![Side view](imgs/img5.jpg)<br>To avoid interference with the OLED, the leads protruding from the through-holes are trimmed.  |  ![Backside view and installation in a case](imgs/img6.jpg)<br>Attach a pad to the lid to hold the board in place and close the lid. (In this picture, the lid is fastened with tape.)   |
 
 ## License
 This is licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/), one of the well-known open-source hardware licenses.
