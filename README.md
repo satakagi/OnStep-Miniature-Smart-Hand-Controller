@@ -25,7 +25,7 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 
 ## Photos of the interior structure
 ![Three modules make up the controller](imgs/img2.jpg)
-Tape is attached to the back of the OLD for insulation.
+Tape is attached to the back of the OLED module for insulation.
 |  - |  -  |
 | ---- | ---- |
 |  ![PCB](imgs/img3.jpg)  |  ![Connection with OLED](imgs/img4.jpg)  |
