@@ -21,10 +21,11 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 * Case ( refer to [miniSHCcase.stl](miniSHCcase.stl) )
 
 ## Photos of the interior structure
-|  TH  |  TH  |
+![Three modules make up the controller](imgs/img2.jpg)
+|  - |  -  |
 | ---- | ---- |
-|  ![Three modules make up the controller](imgs/img2.jpg)  |  ![PCB](imgs/img3.jpg)   |
-|  ![Connection with OLED](imgs/img4.jpg)  |  ![Side view](imgs/img5.jpg)   |  ![Backside view and installation in a case](imgs/img6.jpg)   |
+|  ![PCB](imgs/img3.jpg)  |  ![Connection with OLED](imgs/img4.jpg)  |
+|  ![Side view](imgs/img5.jpg)  |  ![Backside view and installation in a case](imgs/img6.jpg)   |
 
 ## License
 This is licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/), one of the well-known open-source hardware licenses.
