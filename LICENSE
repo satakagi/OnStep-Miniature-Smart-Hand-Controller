@@ -1,0 +1,497 @@
+Creative Commons
+CC BY-SA
+https://creativecommons.org/licenses/by-sa/4.0/
+
+AND
+
+TAPR Open Hardware License (OHL)
+https://files.tapr.org/OHL/TAPR_Open_Hardware_License_v1.0.txt
+
+The TAPR Open Hardware License
+Version 1.0 (May 25, 2007)
+Copyright 2007 TAPR - http://www.tapr.org/OHL
+
+PREAMBLE
+
+Open Hardware is a thing - a physical artifact, either electrical or
+mechanical - whose design information is available to, and usable by,
+the public in a way that allows anyone to make, modify, distribute, and
+use that thing.  In this preface, design information is called
+"documentation" and things created from it are called "products."
+
+The TAPR Open Hardware License ("OHL") agreement provides a legal
+framework for Open Hardware projects.  It may be used for any kind of
+product, be it a hammer or a computer motherboard, and is TAPR's
+contribution to the community; anyone may use the OHL for their Open
+Hardware project.
+
+Like the GNU General Public License, the OHL is designed to guarantee
+your freedom to share and to create.  It forbids anyone who receives
+rights under the OHL to deny any other licensee those same rights to
+copy, modify, and distribute documentation, and to make, use and
+distribute products based on that documentation.
+
+Unlike the GPL, the OHL is not primarily a copyright license.  While
+copyright protects documentation from unauthorized copying, modification, 
+and distribution, it has little to do with your right to make, distribute, 
+or use a product based on that documentation.  For better or worse, patents 
+play a significant role in those activities.  Although it does not prohibit 
+anyone from patenting inventions embodied in an Open Hardware design, and 
+of course cannot prevent a third party from enforcing their patent rights, 
+those who benefit from an OHL design may not bring lawsuits claiming that
+design infringes their patents or other intellectual property.
+
+The OHL addresses unique issues involved in the creation of tangible,
+physical things, but does not cover software, firmware, or code loaded
+into programmable devices.  A copyright-oriented license such as the GPL
+better suits these creations.
+
+How can you use the OHL, or a design based upon it?  While the terms and
+conditions below take precedence over this preamble, here is a summary:
+
+*  You may modify the documentation and make products based upon it.
+
+*  You may use products for any legal purpose without limitation.
+
+*  You may distribute unmodified documentation, but you must include the
+complete package as you received it.
+
+*  You may distribute products you make to third parties, if you either
+include the documentation on which the product is based, or make it
+available without charge for at least three years to anyone who requests
+it.
+
+*  You may distribute modified documentation or products based on it, if
+you:
+    *  License your modifications under the OHL.
+    *  Include those modifications, following the requirements stated
+       below.
+    *  Attempt to send the modified documentation by email to any of the
+       developers who have provided their email address.  This is a good
+       faith obligation - if the email fails, you need do nothing more
+       and may go on with your distribution.
+
+*  If you create a design that you want to license under the OHL, you
+should:
+    *  Include this document in a file named LICENSE (with the appropriate
+       extension) that is included in the documentation package.
+    *  If the file format allows, include a notice like "Licensed under
+       the TAPR Open Hardware License (www.tapr.org/OHL)" in each
+       documentation file.  While not required, you should also include
+       this notice on printed circuit board artwork and the product
+       itself; if space is limited the notice can be shortened or
+       abbreviated.
+    *  Include a copyright notice in each file and on printed circuit
+       board artwork.
+    *  If you wish to be notified of modifications that others may make,
+       include your email address in a file named "CONTRIB.TXT" or
+       something similar.
+
+*  Any time the OHL requires you to make documentation available to
+others, you must include all the materials you received from the
+upstream licensors.  In addition, if you have modified the
+documentation:
+    *  You must identify the modifications in a text file (preferably
+       named "CHANGES.TXT") that you include with the documentation. 
+       That file must also include a statement like "These modifications
+       are licensed under the TAPR Open Hardware License."
+    *  You must include any new files you created, including any
+       manufacturing files (such as Gerber files) you create in the
+       course of making products.
+    *  You must include both "before" and "after" versions of all files
+       you modified.
+    *  You may include files in proprietary formats, but you must also
+       include open format versions (such as Gerber, ASCII, Postscript,
+       or PDF) if your tools can create them.
+
+TERMS AND CONDITIONS
+
+1.   Introduction
+1.1  This Agreement governs how you may use, copy, modify, and
+distribute Documentation, and how you may make, have made, and
+distribute Products based on that Documentation.  As used in this
+Agreement, to "distribute" Documentation means to directly or indirectly
+make copies available to a third party, and to "distribute" Products
+means to directly or indirectly give, loan, sell or otherwise transfer
+them to a third party.
+
+1.2  "Documentation" includes:
+     (a) schematic diagrams;
+     (b) circuit or circuit board layouts, including Gerber and other
+         data files used for manufacture;
+     (c) mechanical drawings, including CAD, CAM, and other data files
+         used for manufacture;
+     (d) flow charts and descriptive text; and
+     (e) other explanatory material.
+Documentation may be in any tangible or intangible form of expression,
+including but not limited to computer files in open or proprietary
+formats and representations on paper, film, or other media.
+
+1.3  "Products" include:
+     (a) circuit boards, mechanical assemblies, and other physical parts
+         and components;
+     (b) assembled or partially assembled units (including components
+         and subassemblies); and
+     (c) parts and components combined into kits intended for assembly
+         by others;
+which are based in whole or in part on the Documentation.
+
+1.4  This Agreement applies to any Documentation which contains a
+notice stating it is subject to the TAPR Open Hardware License, and to
+all Products based in whole or in part on that Documentation.  If
+Documentation is distributed in an archive (such as a "zip" file) which
+includes this document, all files in that archive are subject to this
+Agreement unless they are specifically excluded.  Each person who
+contributes content to the Documentation is referred to in this
+Agreement as a "Licensor."
+
+1.5  By (a) using, copying, modifying, or distributing the
+Documentation, or (b) making or having Products made or distributing
+them, you accept this Agreement, agree to comply with its terms, and
+become a "Licensee."  Any activity inconsistent with this Agreement will
+automatically terminate your rights under it (including the immunities
+from suit granted in Section 2), but the rights of others who have
+received Documentation, or have obtained Products, directly or
+indirectly from you will not be affected so long as they fully comply
+with it themselves.
+
+1.6  This Agreement does not apply to software, firmware, or code
+loaded into programmable devices which may be used in conjunction with
+Documentation or Products.  Such software is subject to the license
+terms established by its copyright holder(s).
+
+2.   Patents
+2.1  Each Licensor grants you, every other Licensee, and every
+possessor or user of Products a perpetual, worldwide, and royalty-free
+immunity from suit under any patent, patent application, or other
+intellectual property right which he or she controls, to the extent
+necessary to make, have made, possess, use, and distribute Products.
+This immunity does not extend to infringement arising from modifications
+subsequently made by others.
+
+2.2  If you make or have Products made, or distribute Documentation
+that you have modified, you grant every Licensor, every other Licensee,
+and every possessor or user of Products a perpetual, worldwide, and
+royalty-free immunity from suit under any patent, patent application, or
+other intellectual property right which you control, to the extent
+necessary to make, have made, possess, use, and distribute Products.
+This immunity does not extend to infringement arising from modifications
+subsequently made by others.
+
+2.3  To avoid doubt, providing Documentation to a third party for the
+sole purpose of having that party make Products on your behalf is not
+considered "distribution,"\" and a third party's act of making Products
+solely on your behalf does not cause that party to grant the immunity
+described in the preceding paragraph.
+
+2.4  These grants of immunity are a material part of this Agreement,
+and form a portion of the consideration given by each party to the
+other.  If any court judgment or legal agreement prevents you from
+granting the immunity required by this Section, your rights under this
+Agreement will terminate and you may no longer use, copy, modify or
+distribute the Documentation, or make, have made, or distribute
+Products.
+
+3.   Modifications
+You may modify the Documentation, and those modifications will become
+part of the Documentation.  They are subject to this Agreement, as are
+Products based in whole or in part on them.  If you distribute the
+modified Documentation, or Products based in whole or in part upon it,
+you must email the modified Documentation in a form compliant with
+Section 4 to each Licensor who has provided an email address with the
+Documentation.  Attempting to send the email completes your obligations
+under this Section and you need take no further action if any address
+fails.
+
+4.   Distributing Documentation
+4.1  You may distribute unmodified copies of the Documentation in its
+entirety in any medium, provided that you retain all copyright and other
+notices (including references to this Agreement) included by each
+Licensor, and include an unaltered copy of this Agreement.
+4.2  You may distribute modified copies of the Documentation if you
+comply with all the requirements of the preceding paragraph and:
+     (a) include a prominent notice in an ASCII or other open format
+         file identifying those elements of the Documentation that you
+         changed, and stating that the modifications are licensed under
+         the terms of this Agreement;
+     (b) include all new documentation files that you create, as well as
+         both the original and modified versions of each file you change
+         (files may be in your development tool's native file format,
+         but if reasonably possible, you must also include open format,
+         such as Gerber, ASCII, Postscript, or PDF, versions);
+     (c) do not change the terms of this Agreement with respect to
+         subsequent licensees; and
+     (d) if you make or have Products made, include in the Documentation
+         all elements reasonably required to permit others to make
+         Products, including Gerber, CAD/CAM and other files used for
+         manufacture.
+
+5.   Making Products
+5.1  You may use the Documentation to make or have Products made,
+provided that each Product retains any notices included by the Licensor
+(including, but not limited to, copyright notices on circuit boards).
+5.2  You may distribute Products you make or have made, provided that
+you include with each unit a copy of the Documentation in a form
+consistent with Section 4.  Alternatively, you may include either (i) an
+offer valid for at least three years to provide that Documentation, at
+no charge other than the reasonable cost of media and postage, to any
+person who requests it; or (ii) a URL where that Documentation may be
+downloaded, available for at least three years after you last distribute
+the Product.
+
+6.   NEW LICENSE VERSIONS
+TAPR may publish updated versions of the OHL which retain the same
+general provisions as the present version, but differ in detail to
+address new problems or concerns, and carry a distinguishing version
+number.  If the Documentation specifies a version number which applies
+to it and "any later version", you may choose either that version or any
+later version published by TAPR.  If the Documentation does not specify
+a version number, you may choose any version ever published by TAPR. 
+TAPR owns the copyright to the OHL, but grants permission to any person
+to copy, distribute, and use it in unmodified form.
+
+7.   WARRANTY AND LIABILITY LIMITATIONS
+7.1  THE DOCUMENTATION IS PROVIDED ON AN"AS-IS" BASIS WITHOUT
+WARRANTY OF ANY KIND, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  ALL
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+TITLE, ARE HEREBY EXPRESSLY DISCLAIMED.
+7.2  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW WILL ANY LICENSOR
+BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF
+THE USE OF, OR INABILITY TO USE, THE DOCUMENTATION OR PRODUCTS,
+INCLUDING BUT NOT LIMITED TO CLAIMS OF INTELLECTUAL PROPERTY
+INFRINGEMENT OR LOSS OF DATA, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+7.3  You agree that the foregoing limitations are reasonable due to
+the non-financial nature of the transaction represented by this
+Agreement, and acknowledge that were it not for these limitations, the
+Licensor(s) would not be willing to make the Documentation available to
+you.
+7.4  You agree to defend, indemnify, and hold each Licensor harmless
+from any claim brought by a third party alleging any defect in the
+design, manufacture, or operation of any Product which you make, have
+made, or distribute pursuant to this Agreement.
+                                 ####
+
+===========================================================================
+参考：下記は、TAPR Open Hardware License (OHL)を
+www.DeepL.com/Translator（無料版）で機械翻訳した文章です。
+以下の内容に関わらずライセンスは英語原文を正文とします。
+
+TAPRオープンハードウェアライセンス
+バージョン 1.0 (2007年5月25日)
+著作権 2007 TAPR - http://www.tapr.org/OHL
+
+前文
+
+オープンハードウェアとは、電気的または機械的な物理的成果物であり、その設計情報は
+、誰もがその物を作成、変更、配布、および使用することができる方法で、公衆が入手で
+き、かつ使用可能なものです。 この序文では、設計情報を「文書」と呼び、そこから作
+成されるものを「製品」と呼びます。
+
+TAPRオープンハードウェアライセンス（以下、OHL）契約は、オープンハードウェアプロ
+ジェクトの法的枠組みを提供するものです。 OHLは、ハンマーからコンピュータのマザー
+ボードまで、あらゆる種類の製品に使用することができ、TAPRのコミュニティへの貢献で
+あり、誰でも自分のOpen HardwareプロジェクトにOHLを使用することができます。
+
+GNU General Public Licenseと同様に、OHLは、共有と創造の自由を保証するために設計
+されています。 OHLの下で権利を得た者が、他のライセンシーに対して、文書を複製、変
+更、配布したり、その文書に基づいた製品を作成、使用、配布する同じ権利を否定するこ
+とは禁じられています。
+
+GPLとは異なり、OHLは第一義的には著作権ライセンスではありません。 著作権は文書を
+無許可の複製、変更、配布から保護しますが、その文書に基づく製品を作成、配布、利用
+する権利にはほとんど関係しません。 良くも悪くも、これらの活動には特許が重要な役
+割を果たすのです。 オープンハードウェアの設計に具現化された発明を特許化すること
+を禁止するものではありませんし、もちろん第三者が特許権を行使することを妨げること
+はできませんが、OHLの設計から利益を得る者は、その設計が彼らの特許やその他の知的
+財産を侵害していると主張して訴訟を提起することはできません。
+
+OHLは、有形で物理的なものの創造に関わる固有の問題を扱っていますが、ソフトウェア
+、ファームウェア、またはプログラマブルデバイスにロードされたコードは対象外です。
+ これらの創作物には、GPLのような著作権重視のライセンスがより適しています。
+
+OHLやそれに基づくデザインは、どのように利用することができますか？ 以下の条件がこ
+の前文より優先されますが、ここにその概要を示します。
+
+* あなたは、この文書を変更し、それに基づいた製品を作ることができます。
+* 本製品を合法的な目的のために無制限に使用することができます。
+* ただし、受け取ったときと同じように、完全なパッケージを含まなければなりません。
+
+
+* また、本書の内容については、将来予告なしに変更することがあります。
+
+* また、本製品を使用する前に、次のことを確認してください。
+    * OHLのもとで改変したものをライセンスする。
+    * このような場合、以下の条件にしたがって、修正したものを含めることができます
+。
+    * 変更したドキュメントを、メールアドレスを提供した開発者のいずれかに電子メー
+ルで送信しようとする。 これは誠実な義務です。もし電子メールが失敗した場合、あな
+たはそれ以上何もする必要がなく、配布を続けることができます。
+* もしあなたがOHLの下でライセンスを得たいデザインを作成した場合、あなたはそうす
+べきです。
+    * 文書パッケージに含まれる LICENSE という名前のファイル（適切な拡張子を持つ
+）に、この文書を含めます。
+    * ファイル形式が許すなら、各ドキュメントファイルに「Licensed under the TAPR 
+Open Hardware License (www.tapr.org/OHL)」のような告知を含めてください。 必須で
+はありませんが、プリント基板のアートワークや製品本体にもこの表示を入れてください
+。スペースが限られている場合は、表示を短くしたり省略したりすることも可能です。
+    * 各ファイルとプリント基板のアートワークには、著作権表示を含めてください。
+    * 他の人が行うかもしれない変更の通知を受けることを望む場合は、「CONTRIB.TXT
+」または同様のものと名付けられたファイルにあなたの電子メールアドレスを含める。
+
+* OHLが他の人に文書を提供することを要求するときはいつでも、あなたはあなたがから
+受け取ったすべての材料を含める必要があります。
+上流のライセンサー  また、ドキュメントを改変した場合。
+    * また、ドキュメントを変更した場合、その変更内容をテキストファイル（できれば
+「CHANGES.TXT」という名前）に記述し、ドキュメントに添付しなければなりません。 こ
+のファイルには、"These modifications are licensed under the TAPR Open Hardware L
+icense. "のような文言も含まれていなければなりません。
+    * あなたは、製品を作る過程で作成した製造ファイル（ガーバーファイルなど）を含
+む、あなたが作成した新しいファイルを含める必要があります。
+    * 変更前」と「変更後」の両方のファイルを含める必要があります。
+    * 独自の形式のファイルを含めることができますが、お客様のツールで作成できる場
+合は、オープン形式のバージョン（ガーバー、ASCII、ポストスクリプト、PDFなど）も含
+める必要があります。
+
+
+取引条件
+
+1.   はじめに
+1.1 本契約は、お客様がどのように文書を使用、複製、修正、頒布するか、また、お客様
+がどのようにその文書に基づく製品を作成、作成させ、頒布するかを規定するものである
+。 本契約において、「頒布」とは、ドキュメンテーションの複製物を直接的又は間接的
+に第三者に提供することを意味し、「頒布」とは、製品を直接的又は間接的に第三者に譲
+渡、貸与、販売、その他の方法により譲渡することを意味する。
+
+1.2 「ドキュメンテーション」には、以下のものが含まれます。
+     (a) 回路図。
+     (b) 回路または回路基板のレイアウト（製造に使用されるガーバーおよびその他の
+データ・ファイルを含む）。
+     (c) 機械製図（CAD、CAM、その他製造に使用されるデータファイルを含む） (d) 機
+械製図（CAD、CAM、その他製造に使用されるデータファイルを含む）。
+     (d) フローチャートおよび説明文。
+     (e) その他の説明資料。
+ドキュメンテーションは、オープンまたはプロプライエタリなフォーマットのコンピュー
+タファイル、紙、フィルム、またはその他の媒体上の表現を含むがこれに限定されない、
+有形または無形の表現形式とすることができる。
+
+1.3 「製品」には、以下のものが含まれます。
+     (a) 回路基板、機械的組立品、その他の物理的な部品及びコンポーネント。
+     (b) 組立済みまたは部分的に組立られたユニット（コンポーネントおよびサブアセ
+ンブリーを含む）、および
+     (c) 他者による組立を意図してキット化された部品およびコンポーネントで、全体
+または一部がドキュメンテーションに基づくもの。
+
+1.4 本契約は、TAPRオープン・ハードウェア・ライセンスの対象である旨の告知が含まれ
+るあらゆる文書、および当該文書の全部または一部を基にしたすべての製品に適用される
+。 ドキュメンテーション』が、この文書を含むアーカイブ(「ZIP」ファイル等)として頒
+布される場合、そのアーカイブ中の全てのファイルは、特に除外されていない限り本契約
+の対象となる。 ドキュメンテーションにコンテンツを提供する各人を、本契約では "ラ
+イセンサ "と呼ぶ。
+
+1.5 (a)ドキュメントの使用、コピー、修正、または頒布、(b)製品の製造、または製品を
+製造させ、またはそれらを頒布することにより、お客様は本契約を承諾し、その条項の遵
+守に同意し、"ライセンシー "になるものとする。 本契約と矛盾する行為は、本契約に基
+づくあなたの権利（第2条で認められた訴訟免責を含む）を自動的に終了させるが、あな
+たから直接または間接的に文書を受け取った、あるいは製品を入手した他者の権利は、彼
+ら自身が本契約を完全に遵守する限り、影響を受けることはない。
+
+1.6 本契約は、『文書』又は『製品』と組み合わせて使用される可能性のあるソフトウェ
+ア、ファームウェア、又はプログラマブル・デバイスにロードされたコードには適用され
+ません。 当該ソフトウェアは、その著作権者が定める使用許諾条件に従うものとします
+。
+
+2.   特許
+2.1 各ライセンサは、お客様、他のすべての被許諾者、および製品のすべての所有者また
+は使用者に対し、製品の製造、製造済み、所有、使用、および配布に必要な範囲において
+、自己が支配する特許、特許出願、またはその他の知的財産権に基づいて訴訟を起こされ
+ない無期限、全世界、およびロイヤルティなしの免責を付与します。この免責は、その後
+他者によって行われた変更に起因する侵害には適用されません。
+
+2.2 お客様が製品を製造し、製造させた場合、またはお客様が改変した文書を配布する場
+合、お客様は、製品の製造、製造、所有、使用、および配布に必要な範囲において、お客
+様が管理する特許、特許出願、またはその他の知的財産権に基づく訴訟から、ライセンサ
+ー、他のすべてのライセンシー、および製品のすべての所有者および使用者が、永久的、
+世界的、およびロイヤルティー免除を与えられる権利を付与するものとします。この免責
+は、その後他者によって行われた変更に起因する侵害には適用されません。
+
+2.3 誤解を避けるため、第三者にお客様のために製品を製造させることのみを目的として
+文書を提供することは「頒布」とはみなされず、第三者がお客様のためにのみ製品を製造
+する行為は、当該第三者に前項に記載の免責を付与させるものではありません。
+
+2.4 これらの免責の付与は、本契約の重要な部分であり、各当事者が他方に対して与えた
+対価の一部を構成するものです。 裁判所の判決または法的合意により、お客様が本条項
+に定める免責を付与することができなくなった場合、本契約に基づくお客様の権利は終了
+し、お客様は今後、ドキュメントの使用、複製、修正、または頒布、もしくは製品の製造
+、製造されたこと、または頒布を行うことができなくなります。
+
+3.   変更点
+お客様は、本マニュアルを修正することができ、それらの修正内容は本マニュアルの一部
+となります。 それらは、それらの全部または一部を基にした製品と同様に、本契約の対
+象となる。 変更後の『文書』、または『文書』の全部もしくは一部を基にした製品を頒
+布する 場合、あなたは『文書』と共に電子メールアドレスを提供した各ライセンサーに
+対し、 第四項に準拠した形で変更後の『文書』を電子メールで送付しなければならない
+。 電子メールの送信を試みることで、本条に基づくあなたの義務は完了し、いずれかの
+アドレスが失敗しても、あなたはそれ以上何もする必要はない。
+
+4. ドキュメンテーションの配布
+4.1 お客様は、各ライセンサーが含むすべての著作権およびその他の表示（本契約への言
+及を含む）を保持し、本契約の変更されていないコピーを含めることを条件に、ドキュメ
+ントの変更されていないコピーをあらゆる媒体で全体として頒布することができるものと
+します。
+4.2 あなたは、前項の全ての要件に準拠し、かつ以下の条件を満たす場合、『文書』の改
+変されたコピーを頒布することができる。
+     (a) ASCIIファイルまたはその他のオープンフォーマットのファイルに、あなたが変
+更したドキュメンテーションの要素を特定し、その変更が本契約の条項に基づいてライセ
+ンスされていることを示す、目立つ告知を含める。
+     (b) あなたが作成したすべての新しいドキュメントファイル、およびあなたが変更
+した各ファイルのオリジナル版と変更版の両方を含めること（ファイルはあなたの開発ツ
+ールのネイティブファイル形式でも構いませんが、合理的に可能であれば、ガーバー、AS
+CII、ポストスクリプト、PDFなどのオープン形式バージョンも含める必要があります）。
+
+     (c) 後続の被許諾者に関して本契約の条件を変更しないこと。
+     (d) お客様が製品を製造する、または製造させる場合、ガーバーファイル、CAD/CAM
+ファイル、その他製造に使用するファイルなど、他者が製品を製造するために合理的に必
+要なすべての要素を文書に含めること。
+
+5.   製品の製造
+5.1 お客様は、各製品がライセンサーによって含まれるあらゆる通知（回路基板上の著作
+権表示を含みますが、これに限定されません）を保持することを条件に、本製品を製造し
+、または製造させるために本ドキュメントを使用することができるものとします。
+5.2 お客様は、お客様が製造し又は製造させた製品を頒布することができますが、その際
+、各ユニットに第4条と整合する形式のドキュメンテーションの複製を含めるものとしま
+す。 または、お客様は、(i)当該文書を要求する者に対し、媒体費及び郵送料以外の合理
+的な費用を無償で提供するという少なくとも3年間有効な申し出、又は(ii)当該文書をダ
+ウンロードできるURLを、お客様が最後に製品を配布してから少なくとも3年間利用できる
+ように含めることができるものとします。
+
+6.   新しいライセンスバージョン
+TAPR は、現行版と同じ一般的な規定を保持しつつ、新たな問題や懸念に対処するために
+細部が異なる OHL の更新版を発行し、区別できるバージョン番号を表示することがあり
+ます。 ドキュメンテーションに、そのバージョンと「それ以降のバージョン」に適用さ
+れるバージョン番号が指定されている場合、お客様は、そのバージョンまたはTAPRが発行
+するそれ以降のバージョンのいずれかを選択することができます。 このドキュメンテー
+ションでバージョン番号が指定されていない場合、あなたは TAPR がこれまでに発行した
+どのバージョンでも選択することができます。TAPR は、OHL の著作権を所有しますが、
+いかなる者に対しても、OHL を改変しない形で複製、頒布、使用することを許諾するもの
+です。
+
+7.   保証および責任制限
+7.1 本書は、適用される法律で認められる範囲において、いかなる種類の保証もなく「現
+状のまま」提供されます。 本書は、商品性、特定目的への適合性、権原など、明示また
+は黙示を問わず、すべての保証を明確に否認します。
+7.2 適用法で要求されない限り、いかなる場合も、ライセンサーは、お客様または第三者
+に対して、文書または製品の使用または使用不能から生じる直接的、間接的、偶発的、結
+果的、懲罰的または懲罰的損害賠償（知的財産侵害またはデータ損失の請求を含むがこれ
+に限らない）について、たとえ当事者がかかる損害の可能性について通知を受けていたと
+しても、責任を負わないものとします。
+7.3 お客様は、本契約に代表される取引の非金融的性質により、前述の制限が合理的であ
+ることに同意し、これらの制限がなければ、ライセンサーがお客様に文書を提供する意志
+がなかったことを認めます。
+7.4 お客様は、本契約に従ってお客様が製造し、製造した、又は頒布する製品の設計、製
+造、又は動作に欠陥があると主張する第三者が提起する請求について、各ライセンサを防
+御、補償し、かつ免責することに同意するものとします。
+                                 ####
+                                 
