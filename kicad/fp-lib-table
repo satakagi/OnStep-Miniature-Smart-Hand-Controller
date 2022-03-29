@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SHC")(type "KiCad")(uri "C:/Users/jmizk/Documents/myKiCadProjects/SHC.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
