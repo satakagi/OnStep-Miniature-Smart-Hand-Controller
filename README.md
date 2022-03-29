@@ -19,7 +19,7 @@ It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/a
 * 7 Resistor Network (2K ohm)
 * 4 Resistor Network (2K ohm)
 * 2.54mm Header Pins 15pin F x 2, 4pin M, 2pin M 
-* Momentary Tact Button Switches 0.2" x 0.24"
+* Momentary Tact Button Switches 0.2" x 0.24" x 7
   * Buttons would need to be at least 0.24" long.
 * Case ( refer to [miniSHCcase.stl](miniSHCcase.stl) )
 
