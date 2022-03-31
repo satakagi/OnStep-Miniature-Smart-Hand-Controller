@@ -1,7 +1,7 @@
 # OnStep-Miniature-Smart-Hand-Controller
 
 ## About
-This is a much smaller design of the [Smart Hand Controller](https://onstep.groups.io/g/main/wiki/7152) for [OnStep](https://onstep.groups.io/g/main)*1.
+This is a much smaller design of the [Smart Hand Controller (SHC)](https://onstep.groups.io/g/main/wiki/7152) for [OnStep](https://onstep.groups.io/g/main)*1.
 It is based on the [OnStep ESP32 Smart Hand Controller](https://baheyeldin.com/astronomy/onstep-esp32-smart-hand-controller-shc.html) circuit.
 
 Therefore, the firmware is exactly the same as the ESP32 SHC, see the section Installing the Platform - For the ESP32 SHC on [The Smart Hand Controller (SHC)](https://onstep.groups.io/g/main/wiki/7152) page.
